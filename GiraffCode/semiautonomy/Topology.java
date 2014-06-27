@@ -1,0 +1,4 @@
+package semiautonomy;
+interface Topology {
+        
+}
